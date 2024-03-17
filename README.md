@@ -11,7 +11,7 @@
 
 
 - 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-@endenrossi-blue?style=flat&logo=telegram&)](https://t.me/endenrossi)
-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vodkin.au@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vodkin.au@gmail.com)
 
 
 ---
