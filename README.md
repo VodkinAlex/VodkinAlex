@@ -37,7 +37,7 @@
 ---
 
 ### 📁 Тестовая документация:
-- [MindMap (декомпозиция)] (https://xmind.ai/share/jxsYyi3Q?xid=2u2cfyo9)
+- [Декомпозиция MindMap]([https://www.youtube.com/watch?v=o7Q8oIfj5JA](https://xmind.ai/share/jxsYyi3Q?xid=RTPBp9Ev))
 - [Тест-план](https://www.youtube.com/watch?v=o7Q8oIfj5JA)
 - [Тест-кейсы](https://www.youtube.com/watch?v=BrDs-sO-M7o)
 - [Баг-репорты](https://www.youtube.com/watch?v=a96wgJYJzyE)
