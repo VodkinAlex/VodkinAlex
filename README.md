@@ -19,7 +19,7 @@
 
 ---
 ### 🛠 Технологии и инструменты:
- ![JIRA](https://img.shields.io/badge/-Jira-333?style=for-the-badge&logo=jira&logoColor=blue)
+![JIRA](https://img.shields.io/badge/-Jira-333?style=for-the-badge&logo=jira&logoColor=blue)
 ![Postman](https://img.shields.io/badge/-Postman-333?style=for-the-badge&logo=postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-333?style=for-the-badge&logo=Swagger)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
