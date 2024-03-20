@@ -31,7 +31,7 @@
 
 ## Моё резюме
 
-- [РЕЗЮМЕ](https://www.youtube.com/watch?v=o7Q8oIfj5JA)
+- [РЕЗЮМЕ](https://drive.google.com/file/d/15EEF3bbJq7H5RmL5qoqdrsLnqFlScXG4/view?usp=sharing)
 
 
 ---
