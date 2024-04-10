@@ -40,5 +40,3 @@
 - [Декомпозиция MindMap](https://xmind.ai/share/jxsYyi3Q?xid=RTPBp9Ev)
 - [Тест-план](https://docs.google.com/spreadsheets/d/12vf4kGgb7Q1BtCSvrHdhky4SW9X8p_dv/edit?usp=sharing&ouid=104456220264890535941&rtpof=true&sd=true)
 - [Тест-кейсы, чек-лист](https://docs.google.com/spreadsheets/d/1R4yJYnDrcWKWnLCREc3-3bjFghN976B-/edit?usp=sharing&ouid=104456220264890535941&rtpof=true&sd=true)
-- [Баг-репорты]()
-- [Коллекции Postman]()
