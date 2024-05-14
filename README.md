@@ -31,7 +31,7 @@
 
 ## Моё резюме
 
-- [РЕЗЮМЕ](https://drive.google.com/file/d/15EEF3bbJq7H5RmL5qoqdrsLnqFlScXG4/view?usp=sharing)
+- [РЕЗЮМЕ](https://docs.google.com/document/d/15RCivcLqj1ZAL51jNDA_MOSWueKI94Nu/edit?usp=sharing&ouid=104456220264890535941&rtpof=true&sd=true)
 
 
 ---
